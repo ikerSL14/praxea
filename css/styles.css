@@ -207,7 +207,7 @@ margin-left: -20px;
   width: 100%;
   height: 47px;
   border-radius: 30px;
-
+  margin-left: initial;
   margin-top: 10px;
 
   justify-content: center;
